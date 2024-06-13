@@ -1,7 +1,12 @@
 # FizzBuzz
 
- FizzBuzz game implementation in Java.
- 
+FizzBuzz is a fun and easy game to write in code. Here’s what you do: count from 1 to 100, and for each number:
+
+- Print "Fizz" if the number can be divided by 3.
+- Print "Buzz" if the number can be divided by 5.
+- Print "FizzBuzz" if the number can be divided by both 3 and 5.
+
+If the number cannot be divided by 3 or 5, just print the number itself. 
 ## Resources 
 - [Java Documentation](https://docs.oracle.com/javase/8/docs/api/): Official documentation for Java programming language.
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/): A helpful guide for formatting README files using Markdown.
